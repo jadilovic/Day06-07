@@ -2,3 +2,15 @@
     text-align: center;
     color:Tomato;
   }
+
+.gallery {
+    float: left;
+    width: 27%;
+    padding-right: 3%;
+    padding-left: 3%;
+  }
+
+.gallery img {
+    width: 100%;
+    height: 200px;
+  }
